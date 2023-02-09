@@ -1,5 +1,5 @@
-// Name: Aniket Singh
-// PRN: 21070126013
+// Name: Anshul Godghate
+// PRN: 21070126015
 // Batch: AIML-A1
 
 // Write a program to take input from command line arguments, scanner object, BufferedReader object, DataInputStream object, console object and perform the following operations:
